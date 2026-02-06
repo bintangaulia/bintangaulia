@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangaulia&label=Profile%20views&color=0e75b6&style=flat" alt="bintangaulia" /> </p>
 
-- 🔭 I’m currently working on freelance **Mlaku Bareng Gondanglegi**
+- 🔭 I’m currently working on freelance **Kosiwa**
 
-- 🌱 I’m currently learning **Laravel,Bootstrap,React JS,API**
+- 🌱 I’m currently learning **Laravel,Tailwind,React JS,API**
 
-- 👨‍💻 All of my projects are available at [novala.my.id](novala.my.id)
+- 👨‍💻 All of my projects are available at [novala.my.id](gdlstory.my.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
