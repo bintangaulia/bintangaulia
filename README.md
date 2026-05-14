@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel,Tailwind,React JS,API**
 
-- 👨‍💻 All of my projects are available at [bintangnovala.com]
+- 👨‍💻 All of my projects are available at bintangnovala.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
